@@ -1,4 +1,4 @@
-# online-e-commrace-platform
+# Online-E-Commerace-Platform
 **🛒 Online E-Commerce Platform (Java GUI)
 📌 Project Overview**
 
